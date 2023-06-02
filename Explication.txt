@@ -1,0 +1,5 @@
+LOC_traain_solution associe chaque id d'image avec le label de l'élément qu'il y a dedans et sa position dans l'image. Pour connaître la nature du label, on regarde LOC_synset_mapping.txt qui associe chaque label à la description de celui-ci.
+
+Ce qu'on doit faire, c'est depuis Wikidata, récupérer les id d'animaux grâce au script chatgpt, ensuite comparer ces id avec les labels (?) pour enfin garder les images correspondant à des animaux.
+
+Ensuite on devra faire une onthologie RDF pour classer ces différents animaux.
