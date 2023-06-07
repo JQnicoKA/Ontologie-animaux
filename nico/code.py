@@ -382,10 +382,15 @@ def lire_fichier_texte(nom_fichier):
 
 # 2/ POUR g.add(( [type], RDF.type, [type]))  etc...
 
-#1 : lire le fichier resume_30_nodoublons dans l'ordre pour savoir quel type est quel type
-#2 : pour chaque type, transformer l'id en nom grâce au fichier hierarchy.txt
-
-#TODO
+with open("resume_filtre_30_nodoublons.txt", 'r') as file:
+    for line in file:
+        words = line.strip().split()
+        if 'taxon' in words:
+            taxon_index = words.index('taxon')
+            for i in range(len(words[taxon_index + 1:]) - 1):
+                with open("codeRDFLIB_hierarchie_deuxieme.txt", "a") as fichier:
+                    fichier.write("g.add((" + words[taxon_index + 1:][i] + ", RDF.type, '" + words[taxon_index + 1:][i+1] + "'))\n")
+fichier.close()
 
 
 
