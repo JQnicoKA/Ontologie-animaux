@@ -1,0 +1,3031 @@
+high-trajectory artillery gun Q2062733
+animal Q729
+medication Q12140
+Neuroptera Q156438
+Cercopithecoidea Q3665073
+knitted fabric Q830128
+Dynastinae Q641142
+Cacatua Q827257
+purchasing Q1369832
+Reptilia Q10811
+Muscicapoidea Q1179990
+Alligatoridae Q6184764
+Elaeis Q7609983
+Felidae Q25265
+Ardea Q310853
+absence Q19829125
+portable media player Q10872571
+goods and services Q2897903
+Turbinellidae Q1365525
+Neopterygii Q740005
+bicycle Q11442
+Gastropoda Q4867740
+locomotive Q93301
+flood defense Q2630707
+Asteraceae Q25400
+ply Q1365530
+staple food Q736427
+Hexacorallia Q132674
+navigational instrument Q1780422
+Ursinae Q7901176
+physical sign Q105449313
+measuring device component Q100606095
+Ardeae Q19595935
+religious (Western Christianity) Q114836842
+Coleoptera Q22671
+work of art Q838948
+interruptive free aerophone Q54819588
+Enantioblastae Q2127292
+Salamandroidea Q348844
+gene Q7187
+flowerpot Q869381
+cycle sport Q2215841
+airliner with 2 engines Q67485885
+artificial physical object Q8205328
+Aepyceros Q10730799
+character Q3241972
+Dipper Q15631675
+vessel flutes with duct, with fingerholes Q55738677
+Cavitaves Q19596314
+position Q4164871
+Meso-Melanesian Q2701297
+Equidae Q165115
+hand axe Q479448
+hotel Q27686
+open flutes with internal duct Q55738662
+berry Q13184
+Phalangioidea Q2918455
+Erinaceidae Q28257
+lamiids Q2182368
+food paste Q5726634
+Fringilla Q581391
+long-sleeved blouse Q102245965
+cellular component Q5058355
+Malacosteinae Q1886634
+carbon compound Q2901852
+compass Q34735
+swimwear Q7223116
+inductor Q5325
+Crurotarsi Q131341
+skill Q205961
+Achelata Q1191353
+element Q379825
+Paddlefish Q858011
+Theria Q130942
+closure Q5135523
+animal organ Q24060765
+composite chordophone Q19588495
+underwater diving Q179643
+Grylloidea Q609392
+hobby Q47728
+Lemuriformes Q37212
+Camelidae Q135022
+Passerea Q19598418
+moss Q25347
+street name sign Q1969455
+working ship Q628983
+Suchia Q1844946
+pure state Q456782
+utility helicopter Q2735392
+horizontal structural element Q30327093
+Thoracica Q283537
+media company Q1331793
+Ciconia Q6471715
+ruler Q1097498
+Lycaenidae Q158717
+noodle dish Q98826752
+combat helmet Q3579211
+number with finite decimal representations Q8424307
+heavy truck and bus drivers Q108289684
+lung disease Q3392853
+drivers and mobile plant operator Q108289050
+inanimate object Q61964280
+eating and lodging Q62602544
+cloak Q516992
+street furniture Q13397636
+market stall Q16556730
+Crocodylinae Q107395048
+Crocodyloidea Q978254
+liturgical furniture Q13099631
+single flutes with internal duct Q55738661
+woven fabric Q1314278
+physical structure Q15710813
+Cancroidea Q1190300
+fictional collective entity Q108764372
+sports season of a sports club Q1539532
+worker Q327055
+Ailuridae Q902901
+telecommunication Q418
+peripheral Q178648
+traditional folk music Q235858
+railway traction vehicle Q2452850
+money box Q18415478
+scale Q10858537
+hot dog Q181055
+entertainment company Q20739124
+Njila languages Q116527040
+perceptible object Q337060
+adjustable spanner Q449109
+sport cyclist Q2309784
+Haplorhini Q82261
+string instrument Q1798603
+Felis Q228283
+wool Q11547758
+alcoholic beverage Q154
+tandem jet trainer Q18536140
+baby & toddler furniture Q116961437
+Crocodylomorpha Q131863
+Tracheophyta Q27133
+sportsperson Q50995749
+rational number Q1244890
+Macropodusinae Q10575588
+Rumiceae Q15793487
+Carabus Q1280997
+tuber Q183319
+artificial physical structure Q11908691
+Esox Q191674
+Turdus Q115661
+meatloaf Q3807565
+puzzle Q13698
+Psittaciformes Q31431
+criminal Q2159907
+Pieris Q997547
+cargo ship Q105999
+motion Q6666023
+geographic location Q2221906
+pure substance Q578779
+Dendrornithes Q11965316
+food market Q28142754
+releasing Q110560444
+Western Nilotic Q3114989
+inflected form Q4423888
+laboratory equipment Q834028
+transport infrastructure Q376799
+Herpestoidea Q9776204
+electric multiple unit Q483373
+tertiary sector of the economy Q55638
+Diadophis Q14427058
+expansion card Q216158
+baritone Q31687
+literary character Q3658341
+item of collection or exhibition Q18593264
+process material Q1726215
+outdoor playset Q7111945
+Nectriaceae Q2119178
+flag or coat of arms Q17335294
+elevation Q106589819
+Nasalis Q3336165
+intentional human activity Q451967
+Elasmobranchii Q194257
+Orangutan Q41050
+armored fighting vehicle Q130368
+vehicle component Q60673395
+pharmaceutical packaging Q7180760
+animal motion Q2515874
+Pelecaniformes Q19338
+Ipomoea Q161173
+Central-Eastern Malayo-Polynesian Q2269883
+processed food Q12582288
+bowl drums Q1606685
+mill Q44494
+Leptotyphlopidae Q339827
+roller coaster Q204832
+problem Q621184
+interface standard Q6046311
+computer icon Q138754
+Rosales Q21895
+Tetrapoda Q19159
+role Q4897819
+social structure Q211606
+relation Q203066
+driver Q352388
+Diodon Q1809104
+Culicidae Q7367
+birth control Q122224
+ink Q127418
+adhesive Q131790
+Brassicaceae Q156888
+Polyneoptera Q822890
+indirectly struck idiophone Q6025130
+Vulpini Q30223
+Suboestophora Q7631763
+Tympanuchus Q1463540
+Tachyglossidae Q21824
+Struthio Q2576337
+Melursus Q17484766
+mechanical saw Q70875100
+anatomical entity Q27043950
+Lycaon Q12061410
+electronic circuit Q1815901
+fraud Q28813
+number Q11563
+personal protective equipment Q1333024
+passenger car Q1144312
+skin Q1074
+road vehicle Q1515493
+land-based transport airplane Q75135823
+structure Q6671777
+result Q2995644
+boat Q35872
+T1 space Q284347
+Lepidoptera Q28319
+oven Q36539
+Culicoidea Q2737578
+military cap Q100987322
+valved trumpets Q55738924
+geomorphological unit Q12766313
+shop assistant Q7316604
+Thecostraca Q150628
+Ranunculaceae Q145869
+plinth Q268205
+graphical user interface element Q5597179
+Cyclostomatida Q150893
+fluid Q102205
+continuous medium Q4437984
+Helicoidei Q49103684
+at-grade intersection Q1984996
+concoction Q5158735
+textile arts tool Q19394283
+vegetable oil Q4739805
+Apodiformes Q25950
+carriage Q235356
+mountain biking Q520611
+batted ball Q18455523
+architectural ensemble Q1497375
+heavy equipment Q874311
+system software Q676202
+Eumetazoa Q5174
+organ system Q188193
+writing implement Q121916
+electric ray Q41317
+ammunition Q185785
+food product Q951964
+Esocidae Q1987393
+draft weapon Q30750835
+Shuttlecraft Q5308494
+monotreme Q21790
+parabolic reflector Q1087850
+military aircraft Q216916
+knowledge system Q105948247
+quaternion Q173853
+wood Q287
+Siphoviruses Q6808
+command Q1665268
+short hair Q17126303
+Viperidae Q163656
+Moringaceae Q1874920
+hypothetical entity Q18706315
+vector Q107994
+social space Q7551384
+monohull Q1999103
+Orthoptera Q167810
+Odontoceti Q144144
+crop and animal production, hunting and related service activities Q29584242
+Allium Q49391
+Gliriformes Q92189203
+birds Q5113
+dip Q2046560
+Cucujoidea Q651038
+T-shirt Q131151
+biomolecular structure Q15712714
+graph Q141488
+ideogram Q138619
+marketing Q39809
+mosque Q32815
+serial Q2217301
+mirror Q35197
+region of pectoral part of chest Q66557754
+Opisthobranchia Q752186
+United States Army formation Q66735962
+bobsledder Q13383011
+snowmobile racing Q107568768
+book cover Q1125338
+artillery gun Q1246258
+Helicoidea Q1628946
+fantasy game Q115135902
+combat aircraft Q19287541
+failure Q1121708
+krater Q476968
+rock formation Q631305
+electronic warfare support measures Q1327258
+section of populated place Q48907157
+allover pattern Q56155759
+strongroom Q110858837
+Eastern Malayo-Polynesian Q940966
+Hydrobiidae Q206486
+running discipline of track Q21467672
+Grifola Q5235921
+fictional humanoid Q28020127
+financial instrument Q247506
+intelligence activity Q4488757
+Satureja Q22858
+Paracrocodylomorpha Q10748156
+coordination complex Q238156
+net Q504825
+indeterminate inflorescence Q28771638
+Metacarcinus Q6822374
+intersection Q285783
+candy Q185583
+shelter Q7493941
+Erolia Q41153518
+mixed drink Q3246609
+portable audio player Q3347599
+oil Q42962
+heavy truck and lorry drivers Q108326249
+mathematical logic Q1166618
+strain of cannabis Q55448359
+team sport Q216048
+fin Q778612
+satellite Q1297322
+Ambystomatidae Q764529
+Glossata Q132742
+white-collar worker Q255274
+Stomiiformes Q657570
+Zingiberidae Q2697037
+Caviidae Q685772
+rotorcraft Q949801
+long-distance running Q917206
+Japanese clothing Q1477300
+Longirostres Q107389342
+literary work Q7725634
+cricket Q5375
+information exchange Q6031064
+Polyporales Q1343309
+military aviation unit Q18515478
+Eastern Sudanic Q2036148
+Olympic sports discipline event Q26132862
+Torpedinidae Q3288921
+bus Q178048
+curve Q161973
+pictogram Q52827
+cultigen Q1362373
+physical substance Q28732711
+physical state Q230855
+binoculars Q102626
+skirt Q2160801
+body cavity Q629138
+human-geographic territorial entity Q15642541
+amusement ride Q1144661
+Lepidosauria Q728299
+Culex Q276595
+Pezizomycotina Q387893
+type system Q865760
+plant container Q1465180
+unencrypted information Q37760959
+Chitonidae Q2088732
+Sapindaceae Q27147
+Leiobunum Q138879
+Atelidae Q463395
+Aramus Q12785142
+Bovidae Q25497
+cosmetic powder Q41153131
+indirect tax Q1771708
+shore Q468756
+ball Q18545
+non-idiophonic interruptive instruments Q54819544
+pitcher Q132397
+Suinae Q899307
+jewelry Q161439
+Scleractinia Q195605
+social position Q1807498
+appliance Q1183543
+electronic game Q2249149
+Myrtiflorae Q14915569
+etui Q1371954
+Actinopterygii Q127282
+burial mound Q20529645
+mat Q1136834
+organ system cancer Q18553400
+Psittacinae Q1074819
+memorial Q5003624
+Hymenoptera Q22651
+Odonatoptera Q3349326
+Chamaeleonidae Q37686
+Ornithodira Q133190
+Loriinae Q212669
+Strix Q241515
+Sarcopterygii Q160830
+symptom Q169872
+Franciscan family Q9263172
+bond Q11693
+necktie Q44416
+geographic entity Q27096213
+information system Q121182
+tournament Q500834
+artillery Q64418
+United States military unit Q104162682
+transport network Q924286
+brush Q614467
+animal-powered vehicle Q26281580
+artistic theme Q1406161
+air cooling equipment Q11395329
+light firearm Q2862124
+communication network Q13425103
+Paraneoptera Q641145
+operating system Q9135
+Lemur Q2340126
+Chelicerata Q1359
+signal tower Q21550989
+Agaricaceae Q913614
+combat vehicle Q4009273
+shop shelf Q100095237
+region of breast Q66558307
+algebraic number Q168817
+space in mathematics Q472971
+Naja Q220475
+teaching professionals Q108284914
+Sirenia Q25431
+word puzzle Q15884100
+output device Q778637
+cleaners and helpers Q108289051
+Polyporus frondosus Q105065411
+Mustelinae Q27888
+Polycarpicae Q1933705
+Lissamphibia Q134861
+United States Army aviation unit Q105395191
+Bellis Q27583
+recreation Q184872
+drinking establishment Q112654507
+Ascomycota Q174726
+Amphibolurinae Q1950168
+cocktail Q134768
+element Q5358816
+Dactyloidae Q3011738
+Talpa Q650143
+tabletop game Q3244175
+Annona Q275737
+Phasianidae Q26375
+tenor Q27914
+plumbing fixture hardware & part Q116970854
+Coracias Q44617
+Myomorpha Q212242
+Amaryllidoideae Q150708
+ban Q621608
+blue Q1088
+lift-on/lift-off Q10568515
+vehicle operator Q23640580
+positive integer Q28920044
+adhesive bandage Q216054
+Magnoliophyta Q14562931
+show Q15116915
+transport company Q740752
+non-heterosexuality Q339014
+Meteoriaceae Q17200246
+protective clothing Q14524031
+covering Q23497974
+religious object Q21029893
+sauce Q178359
+coffeehouse Q30022
+mountain Q8502
+Pinnipedia Q30263
+Danaini Q2597070
+security controls Q1632136
+vocational driver Q19398863
+weapon Q728
+natural person Q154954
+Pterophoroidea Q6090580
+hot spring Q177380
+Harosa Q18397957
+necked box lute Q55724840
+Aérospatiale SA 341 Gazelle Q794595
+energy storage Q837718
+armor Q50414774
+Cercopithecidae Q182968
+hand launderers and pressers Q108290746
+Tipulomorpha Q2737223
+sound Q11461
+workplace Q628858
+Scarabaeoidea Q132379
+reed aerophone Q3152896
+Acipenseroidei Q2823358
+bag Q1323314
+Phocidae Q25587
+musical instrument part Q19659292
+distance measuring device Q21550547
+street Q79007
+wardrobe Q106106
+Catholic friar Q548320
+Cypripedium Q133773
+competition Q841654
+printing trades workers Q108289668
+dessert with spoon Q3712597
+neighborhood Q123705
+cycling Q53121
+remote communication Q1472062
+Viperinae Q651012
+projectile weapon Q1194773
+singularity of a holomorphic function Q20877954
+tax Q8161
+gun carriage Q1163915
+material substance Q28728771
+Scalpelliformes Q18690145
+Laurasiatheria Q27379
+medical device Q6554101
+cancer Q12078
+Pierini Q2474054
+stick Q10971443
+billiard Q117208706
+serial relation Q54940067
+campground Q27108230
+traffic sign Q170285
+Olfactores Q3280581
+acoustic wave Q3882459
+size-specific military unit Q66737643
+Sciuromorpha Q724477
+fur clothing Q197195
+Reid and Sigrist R.S.3 Desford Q617900
+scientific organization Q16519632
+organ part Q27162596
+Benincaseae Q16034621
+stonemasonry tool Q1282265
+equivalence class Q1211071
+Porifera Q18960
+silk mill Q3973051
+Morimus Q2236273
+lamp Q1138737
+quality control Q827792
+Ocypodidae Q1029196
+program code Q124590
+Gruae Q19597378
+family planning Q1280670
+solid Q11438
+Ecdysozoa Q5176
+Inopinaves Q22007593
+Radiata Q719268
+Aepycerotinae Q2825559
+racing automobile driver Q10349745
+hillfort Q744099
+bisexuality Q43200
+Artiofabula Q3428352
+Pocillopora Q292079
+Pteridobiotina Q98520229
+mantle Q6752131
+event Q1656682
+propeller Q205451
+Holozoa Q1205110
+Eucarida Q127341
+movement Q17988854
+collecting Q208165
+heating furnace Q1709184
+region of anterior chest Q66570572
+Haliaeetus Q147403
+elastic wave Q25498967
+Ardeinae Q1031335
+Ginglymodi Q1525014
+pipe Q41551
+speaker Q28503751
+cycling product Q117208869
+emergency vehicle Q1308737
+inflorescence vegetable Q887236
+torpedo cruiser Q4295041
+Artiodactyla Q25329
+Kolmogorov space Q1148924
+Phallomycetidae Q2105952
+Araneus Q1413947
+male short haircut Q7309600
+cooking appliance Q57583712
+bactericide Q804539
+wind instrument Q173453
+defensive wall Q57346
+Avemetatarsalia Q133187
+material Q214609
+soldier Q4991371
+book format Q18602566
+Xenarthra Q173612
+lifting equipment Q173878
+shield Q131559
+Echinozoa Q2698547
+finger food Q748611
+electronic component Q11653
+disaster Q3839081
+percussion idiophones Q30038792
+natural disaster Q8065
+condiment Q2596997
+Telluraves Q20645445
+Egretta Q312272
+heater Q3588251
+free reeds Q399597
+Holometabola Q37140800
+Dialypetaleae Q2576881
+fastener Q2002016
+part Q15989253
+seaplane Q115940
+table Q14748
+cooking oil Q427457
+Douglas DC-3 Q190211
+deck Q208123
+market Q37654
+Phascolarctidae Q431978
+United States Army aviation squadron Q112208569
+racket Q240502
+heat transfer Q179635
+aquatic locomotion Q3467704
+Lophophorata Q777853
+Tringa Q41972
+locomotion Q2633862
+yeast bread Q21595102
+Crotalinae Q595983
+air-launched missile Q104369365
+error Q29485
+Malacostraca Q182978
+wrongdoing Q6765918
+pen Q165447
+electric locomotive Q625151
+barge Q16518
+game equipment Q17638008
+air pollutant Q50429805
+police car Q868601
+Filozoa Q1131559
+organ Q1444
+percussion instrument Q133163
+subdivision of head proper Q66555334
+information provision Q59677089
+exercise weight Q65088374
+electrophone Q105738
+secondary sector of the economy Q55639
+carboxylate anion Q55525180
+entity Q35120
+Ovis Q22724
+rotating aerophones Q55773741
+hesperidium Q1429336
+museum building Q24699794
+Asian people Q4058325
+ball for racket sport Q30347392
+memorial arch Q97466153
+interface Q110558466
+protective face mask Q2252352
+creator Q2500638
+large goods vehicle Q2449732
+Bryopsida Q831482
+elastomer Q252266
+Dilleniidae Q2070446
+transport accident Q11822042
+Caenophidia Q13502819
+Salmoninae Q15504328
+Cucurbitaceae Q8314
+property Q937228
+Afroaves Q15718604
+shop furniture Q100136951
+jazz Q8341
+muscle of thorax Q66505015
+horse cavalry Q47512208
+Carcharhinidae Q48191
+baseball manager Q1186921
+warrior Q1250916
+protective device Q3030569
+Musteloidea Q2670845
+firearm Q12796
+purpose-designed aircraft Q19403027
+steamship Q12859788
+non-specific protein-tyrosine kinase Q309510
+woodwind instrument Q181247
+Agaricomycetidae Q131868
+phenethylamine Q422693
+Toxicofera Q1519264
+cosmetics Q131207
+subdivision of abdomen Q66511773
+male very short haircut Q111082186
+star cluster Q168845
+inhabitant Q22947
+landform Q271669
+evolutionary process Q18054608
+Mesocricetus Q389919
+electromagnetic radiation Q12969754
+Acanthopterygii Q660475
+ceremonial object Q56627913
+electronic visual display Q6021804
+tribute Q748289
+Celtic folk music Q98528277
+ice cream bar Q1319591
+Phallaceae Q784850
+occurrent Q67518978
+food and drink preparation Q16920758
+Nematocera Q27605
+rowing boat Q1195684
+truck Q43193
+Elephantidae Q2372824
+information Q11028
+Chitonida Q5102273
+infectious disease Q18123741
+organ stop Q1446290
+cause Q2574811
+means Q12894677
+phenomenon Q483247
+reed instrument Q42896320
+crop Q235352
+music in Dutch language Q2668052
+limb Q190780
+electronics store chain Q76214980
+chordophone Q1051772
+Aesculus Q158752
+cushion Q10971235
+Diapsid Q134688
+tit Q168473
+lamellophone Q936762
+kitchen organizer Q116971384
+male singing voice Q54285279
+gourd Q5339237
+swimming Q6388
+Endornavirus Q5376400
+Yponomeutoidea Q135418
+Scolopacidae Q26626
+Hippopotaminae Q19709478
+analog camera Q117458923
+Jagdpanzer IV Q155800
+multiple unit Q3959904
+iPod Q9479
+award Q618779
+point Q1700214
+Exocoetoidei Q1384086
+Blattellidae Q1953032
+Heterokonta Q18744565
+administration Q50412353
+Ophidia Q16986904
+professional Q702269
+cellular anatomical entity Q70551253
+Erythrocebus Q10758998
+contact dermatitis Q783903
+Percoidea Q1188087
+geographical feature Q618123
+Ceratopsidae Q263925
+logic Q8078
+machine Q11019
+data collection Q4929239
+supermini Q815423
+traveler Q22813352
+laborer Q12713481
+callosity Q579108
+cold weapon Q222405
+animal product Q629103
+mobile device Q5082128
+ball boy Q47801802
+land-based utility aircraft Q68072093
+baseball player Q10871364
+miscellaneous term Q66536017
+Sciurini Q2294121
+Carabinae Q143026
+Muscicapidae Q200989
+chemical compound Q11173
+theft Q2727213
+oxyanion Q3269344
+costume accessory Q1065579
+abdominal fat Q18088623
+massive quantum particle Q28877390
+memorial sculpture Q64850080
+subdivision of limb Q42349060
+vehicle, window, laundry and other hand cleaning workers Q108289688
+Anserinae Q620938
+plucked necked box lute Q57306162
+trainer aircraft Q41426
+mythical character Q4271324
+mechanical fan Q6498398
+double hull Q2878246
+display device Q327065
+fishing Q14373
+Amniota Q181537
+Columbaves Q22285909
+Polygonoideae Q1238742
+Ruminantiamorpha Q45845169
+bedding Q1762457
+Polygonaceae Q156117
+endorelation Q54938846
+fictional magic object Q30237636
+situation Q2141565
+Passerida Q764420
+biological process Q2996394
+Cycadophytanae Q98522415
+nucleic acid sequence Q863908
+Holacanthus Q1342093
+computer hardware Q3966
+electronics store Q43156817
+building division Q56052926
+Panthera Q127960
+palms Q14080
+flute Q11405
+voltage divider Q466758
+Eupulmonata Q530821
+hardwood Q2266509
+fungus Q764
+winter sports practitioner Q20965770
+poultry dish Q27994921
+human-powered vehicle Q1507442
+utility aircraft Q1130697
+retail Q126793
+mental process Q781413
+Haemantheae Q10515635
+Sciurus Q281124
+electrical element Q210729
+intertrigo Q796150
+First Order of Saint Francis Q2888028
+music cognition Q1467077
+tool Q39546
+Pinales Q1000370
+Sauropsida Q329457
+mass concentration Q589446
+Cheloniidae Q30143
+plane figure Q4365210
+complex number Q11567
+top Q1435365
+manor house Q879050
+megalith Q164240
+Cercopithecinae Q220848
+Caenogastropoda Q132979
+undergarment Q198763
+chairperson Q140686
+Acrocomia Q3642755
+Fabales Q21878
+performing arts Q184485
+spoon Q81895
+Tipuloidea Q1228564
+Crotalus Q463637
+Rosanae Q13647779
+athletics Q542
+plantation Q188913
+Esociformes Q379768
+Carnivora Q25306
+manifestation Q286583
+ironclad warship Q1410980
+Lemuroidea Q1192405
+Gadidae Q208028
+barrette Q2885586
+artist Q483501
+continuant Q103940464
+activity Q1914636
+harvesting machine Q1361060
+trading company Q2865305
+vessel Q16391167
+Palaeoptera Q927351
+communications system Q577764
+Virgaviridae Q3560593
+Mustela putorius Q26582
+all-terrain vehicle Q210988
+Triturus Q310391
+methylenedioxyphenethylamines Q7632114
+Sylvioidea Q2862448
+woodwind instrument player Q25616474
+Nautilidae Q223939
+Cyperales Q1860104
+depiction Q1166770
+Cynara Q19070
+mass media Q11033
+landscape Q107425
+Annonaceae Q220025
+Chrysomeloidea Q920316
+Scrotifera Q7439311
+personification Q207174
+pullover Q2046167
+Apocrita Q22864
+male contraceptive Q949861
+idiophone Q12639
+Hypsiglena Q3022965
+intermediate good Q3955017
+seed Q40763
+cross country running Q500050
+airlifter Q1445518
+Cnidaria Q25441
+Culicomorpha Q950698
+Nepetoideae Q138199
+Osteichthyes Q27207
+temporal entity Q26907166
+Bradypodidae Q15407789
+material Q16829513
+Terebinthales Q2935521
+perception Q160402
+process management Q14167904
+film professional Q3406858
+sets of bells Q55721745
+Cucurbita Q5339301
+double reed instrument Q2152657
+Salmoniformes Q9394365
+Agaminae Q867830
+Neogastropoda Q980146
+Palaeognathae Q19166
+portable light source Q20087093
+Bubalus Q83521
+reef Q184358
+handgun Q1574963
+clock Q376
+physical activity Q747883
+length Q36253
+type of manufactured good Q22811462
+cosmic background radiation Q12902765
+convenience food Q13030962
+Sciurinae Q53106
+Papilionoidea Q756153
+watercraft Q1229765
+drinking vessel Q2453629
+Zingel Q742490
+Primatomorpha Q135424
+Aequorlitornithes Q21590143
+visor cap Q58914721
+accordion Q79838
+Eulepidoptera Q11968085
+Phoenicopteriformes Q7512165
+human-powered land vehicle Q5936788
+Brassiceae Q15054388
+candle Q12888135
+musical performance Q6942562
+Polyporus Q1548736
+alliance Q878249
+sound transducer Q1718024
+Phalangium Q747605
+Western Oceanic Q2701282
+juridical person under French law Q3376045
+polymer Q81163
+Apogoninae Q3620682
+Insectivora Q25842
+songbirds Q194240
+series Q20937557
+rug Q104602244
+intellectual work Q15621286
+abdominal symptom Q102187028
+Lophotrochozoa Q321481
+Alligatorinae Q3408905
+protein Q8054
+Ornithischia Q191488
+rifle Q124072
+output Q1150771
+Arecoideae Q141975
+Alcelaphus Q583557
+Lygosominae Q6168803
+monument Q4989906
+calamity Q1689296
+linear distance measuring device Q107303053
+vehicle Q42889
+person linked to the law Q57735705
+Basidiomycota Q174698
+baked good Q4498085
+Cameloidea Q31387247
+Commelinaceae Q156674
+estate in land Q975783
+fictional vehicle Q20871196
+recurring entity Q28314507
+Hexanauplia Q47544996
+game controller Q865422
+economic problem Q3539169
+brass instrument Q180744
+liquid Q11435
+military personnel Q47064
+slip-on shoe Q100230935
+Craniata Q84149
+public transport network Q18325841
+playing card Q47883
+wrench Q154411
+creative work Q17537576
+vessel flutes with duct Q55738675
+Natricinae Q1587690
+polytope Q747980
+free aerophone Q50840728
+Magnoliidae Q13582382
+roof Q83180
+product Q2424752
+transducer Q215928
+commemorative plaque Q721747
+Rubus Q602740
+Archosauromorpha Q134676
+benign neoplasm Q1417240
+Cycloneuralia Q858262
+Isobryales Q17276672
+hosiery Q2524539
+technique Q2695280
+Stomiidae Q283200
+computer science Q21198
+Pseudosuchia Q2742285
+Exafroplacentalia Q133342
+dispenser Q27098499
+building material Q206615
+Sympetalae Q649332
+subdivision of auriculotemporal part of head Q66557904
+boat type Q16103215
+signals intelligence Q836610
+ship element Q15688633
+Galbuloidea Q1529266
+ephemera Q1523267
+magical object in Harry Potter Q190327
+pottery ware Q17379525
+Lamiini Q1147384
+agricultural worker Q19261760
+sports venue Q1076486
+Tubiflorae Q2031798
+Carassius Q237800
+Lacertidae Q27532
+Chamaeleoninae Q2491068
+processor Q1466064
+mechanism Q517596
+armor Q20793164
+bakery products, pastry, cakes and long-term cakes Q26995321
+frozen dessert Q866153
+appendage Q13415392
+cutlery Q81944
+Caprinae Q189804
+cutting Q196751
+suiting Q3715160
+stemware Q14920412
+electro-acoustic chordophones Q55738960
+vehicle simulation game Q578868
+vehicle equipment Q15710834
+guitar Q6607
+Ursoidea Q14943214
+Apoditrysia Q618828
+width Q35059
+beaker Q833823
+Trisopterus Q265242
+Kra–Dai Q34171
+military vehicle Q1184840
+carving Q97570030
+Nephropidae Q1038113
+racing automobile Q673687
+Prototheria Q715778
+sports location Q23764314
+Olympic sport Q212434
+speciation Q39350
+Ananas Q147316
+pattern Q2083958
+Kinosternidae Q387150
+collective entity Q99527517
+aviation incident Q3149875
+Pan Q80174
+Pierina Q21446400
+action Q4026292
+mask Q161524
+workwear Q828980
+radiation Q18335
+protein precursor Q258658
+personal computer Q16338
+workshop Q656720
+squeezebox Q336767
+machine element Q839546
+sedimentary basin Q785020
+Hippopotamus Q629680
+landscape element Q1529874
+data Q42848
+recreative work Q17538258
+floor covering Q47011175
+fictional creature Q2593744
+vehicle without engine Q41321608
+phonograph cartridge Q86861914
+mechanical wave Q1132631
+wine Q282
+tin Q15706035
+Arachnopulmonata Q80024044
+house Q3947
+Artocarpeae Q4801377
+Cypripedium parviflorum Q2631281
+headdress Q28972621
+protective gear in sports Q7251374
+Scincogekkonomorpha Q15102703
+cookware and bakeware Q154038
+Polyodon Q5599816
+Myoglossata Q4591380
+Colubridae Q182751
+Scombroidei Q428555
+Leotiomycetes Q133551
+Astereae Q142800
+simple inflorescence Q28771630
+folk music Q43343
+warship Q3114762
+reconnaissance satellite Q466421
+wheeled vehicle Q15618781
+Scopus Q15222474
+incident Q12890393
+image Q478798
+database Q8513
+human settlement Q486972
+city car Q504154
+waste container Q216530
+Neotragini Q936330
+natural fiber Q1192049
+rock'n'roll dance Q3437730
+culinary equipment Q26037047
+roast Q899561
+Chamaeleo Q1767161
+basin Q813672
+drink Q40050
+Boreoeutheria Q132666
+live ball Q6657111
+piston Q45227
+structural component Q61964189
+flutes with internal duct Q55738660
+Endornaviridae Q18811123
+unmanned aerial vehicle Q484000
+Araucaria sect. Eutacta Q14950066
+land vehicle Q1301433
+mathematical object Q246672
+Gruiformes Q25557
+Unikont Q964455
+scale Q1959825
+Maniolina Q18086629
+horn Q82025
+building Q41176
+kitchen utensil Q3773693
+Sus Q10798
+fountain Q483453
+berry Q16128920
+spring Q124714
+profession Q28640
+fluid flow Q12142910
+Tetraoninae Q201240
+Neolepidoptera Q6601617
+meteorological instrument Q3743695
+combatant Q1414937
+Scarabaeini Q4049112
+breadth Q77835705
+Calcarea Q209924
+Lacerta Q312232
+Ensifera Q27736
+general anatomical term Q28843519
+rule Q1151067
+diacritic Q162940
+plucked string instrument Q230262
+queue Q1783115
+Salamandridae Q319469
+wall Q42948
+horeca Q1431026
+fictional spacecraft Q14637321
+Panzer IV L/43 Q63226281
+believer Q17573152
+role Q214339
+vehicle maintenance, care & decor Q117209189
+Australidelphia Q631975
+Ponginae Q430898
+civil engineering construction Q1411945
+ice hockey equipment Q2252192
+Ateles Q258244
+Camelus Q7375
+Chondrichthyes Q25371
+Cicadellidae Q244452
+utility software Q312466
+Delphinida Q21219068
+Ardeidae Q18789
+engineer Q81096
+riding toy Q116037407
+linguistic form Q115786086
+Crocodilia Q25363
+Delphinoidea Q1139670
+Acari Q19137
+trainset Q16911759
+transportation occupation Q56148021
+catamaran Q190403
+Aphantopus Q773406
+aerostat Q1299477
+Malayo-Polynesian Q143158
+sports season Q27020041
+Lithocolletinae Q1315117
+physical system Q1454986
+series circuit Q13928914
+career Q282049
+quadrilateral Q36810
+window covering Q3001801
+rolling stock Q1414135
+instruction Q12772763
+mobile operating system Q920890
+wrap Q1599125
+Crocodylus Q309495
+trail Q628179
+spatial entity Q58416391
+coastal landform Q19817101
+cereals and pseudocereals Q2643145
+Barnacle Q220457
+assault rifle Q177456
+Corvoidea Q15998878
+automotive part Q46765731
+bed Q42177
+directly struck membranophone Q5280487
+painting support Q861259
+Rana Q72738
+composite particle Q3366856
+kitchen appliance accessory Q117207915
+herb Q207123
+Scorpaeniformes Q208777
+Danaus Q662991
+non-geologically related mountain range Q1437459
+media Q340169
+Heterobranchia Q133143
+clerk Q738142
+Capra Q172923
+factory Q83405
+precision-guided munition Q32050
+yal Q13573011
+airship unit Q112186716
+fictional character Q95074
+Pomacanthidae Q320913
+Hystricognathi Q1063601
+knife Q32489
+analytic manifold Q4751134
+push-button Q870870
+prevention Q1717246
+Psittacoidea Q13624220
+artificial satellite Q26540
+television program Q15416
+torpedo boat Q324233
+partial order Q1069998
+planning Q309100
+Merops Q269203
+deep-sky object Q249389
+free-emissions vehicle Q19279121
+Acanthomorpha Q337777
+Elopomorpha Q149107
+Gracillarioidea Q135038
+pattern Q55413080
+Citreae Q3216053
+Otidiformes Q16724409
+sportswear Q645292
+virus Q808
+Gracillariidae Q721100
+Erinaceus Q498993
+density Q29539
+Psychodidae Q753860
+clog Q167633
+Culicinae Q139664
+algorithm Q8366
+bacterial infectious disease Q727028
+Peracarida Q25933
+Panzer I Q151465
+apple Q89
+inflorescence Q156428
+irritant dermatitis Q1799146
+airliner with 2 piston-propeller engines Q18518652
+procedure Q41689629
+finial Q1406758
+Gnathostomata Q26214
+Protacanthopterygii Q149091
+animal fiber Q874142
+African elephant Q185038
+land-based airliner monoplane Q83762511
+Pilosa Q143441
+heavy cavalry Q523562
+percussion vessels Q55721729
+minority group Q30103
+cheating Q19
+swing Q188688
+fixed-wing aircraft Q2875704
+Thoracotremata Q1813320
+helicopter Q34486
+Agaricomycotina Q584822
+Carphophis Q2940134
+fleshy fruit Q15197056
+separation Q3182649
+Sylviidae Q187014
+art Q735
+media professional Q15980804
+Bromeliales Q2344415
+process Q3249551
+Lythraceae Q156022
+textile factory Q46398483
+membrane organ Q28846055
+Pezizomycetes Q843232
+ice pop Q855373
+engineered system Q106865223
+blunt instrument Q339828
+mobile charge Q3744866
+Cryptodira Q499621
+software engineer Q1709010
+Pocilloporidae Q149931
+Felinae Q42602
+print finishing and binding workers Q108290602
+Anolis Q311348
+costume component Q28935403
+stand Q109154771
+billiard table parts & accessory Q117208715
+biocatalyst Q426799
+physiological condition Q7189713
+flying boat Q1153376
+missile Q974850
+group Q16887380
+Convolvulaceae Q145777
+headband Q934849
+single side-blown flutes Q55738595
+Eurocopter AS365 Dauphin Q39663
+Strigimorphae Q5881279
+Phacochoerini Q15618351
+chair Q15026
+amphora Q178401
+Central-Western Bantu Q116487147
+Violales Q902665
+cereal Q12117
+Plumbaginales Q2059792
+religious Q2566598
+Eschrichtius Q12778450
+Lepidosauromorpha Q134665
+Fereuungulata Q5444079
+comic book Q1760610
+riding boot Q118532
+fluid parcel Q3271065
+hat Q80151
+cap Q6147804
+axe Q39397
+meat dish Q1427844
+sea turtle Q219329
+end-blown labrosones Q55738903
+stone circle Q1935728
+bomber with 2 engines Q18518465
+donation Q1124860
+uniformly accelerated motion Q376908
+Phascolarctos Q209692
+Odonata Q25375
+military building Q6852233
+political alliance Q60170135
+Boletales Q659629
+Acipenseriformes Q192422
+horticultural container Q111254795
+dish Q99513137
+Episquamata Q13518421
+Mysticeti Q168366
+organism Q7239
+Cytisus Q157226
+Sphaeramia Q917432
+Parasitiformes Q132756
+clothing Q11460
+venue Q17350442
+Lacertinae Q649583
+industrial sector Q8148
+tissue Q40397
+immaterial component Q66310127
+agricultural product Q11827455
+military officer Q189290
+Gruimorphae Q27732132
+kinase Q421851
+Neuropterida Q730799
+broadcasting program Q11578774
+Zea sect. Zea Q114560957
+Ciconiidae Q28507
+backyard cricket Q4839892
+distomatosis Q3030745
+hedgehog Q6120
+convention Q367293
+bloating Q4927059
+trade Q601401
+wooden lighthouse Q66088335
+Meripilaceae Q2125303
+Asian languages Q98791755
+tray Q613972
+violation of law Q1456832
+intellectual and scientific professionals Q110281945
+sign Q3695082
+Anguimorpha Q929105
+Orcinus Q2123883
+Catshark Q17149
+Cygnus Q29564928
+Cetruminantia Q1369337
+organ Q712378
+Simiiformes Q5452918
+bathroom linen Q98792614
+depression Q190429
+intracellular membrane-bounded organelle Q14349519
+screen Q79137673
+Caulimovirus Q16913554
+Multicrustacea Q11937877
+Mantodea Q131250
+Pardosa Q1755072
+Galeorhinus Q608028
+drawer Q15296811
+Helotiaceae Q2084521
+massive particle Q2923525
+developmental defect during embryogenesis Q55788864
+woody plant Q757163
+drinking glass Q21167379
+tea house Q1072166
+Scopidae Q2252347
+physical property Q4373292
+hair care Q3633540
+structural element Q811679
+three-toed sloth Q185167
+Agaricus Q390456
+Endopterygota Q304358
+unit Q2198779
+Sphenisciformes Q12198609
+manufactured good Q1836700
+trousers Q39908
+hull Q6750281
+Lepisosteus Q133479
+paddle Q599797
+Suidae Q166898
+Emydidae Q390835
+Carcharodon Q2938003
+cardboard Q389782
+bowed lute Q87929050
+Psychodinae Q728148
+pickup Q572648
+Oceanic Q324457
+natural resource Q188460
+porridge Q186817
+furniture industry Q11990434
+Tetraodontidae Q201701
+group or class of organisms Q21871294
+Mus Q39275
+coat of arms Q14659
+submarine Q2811
+Araneae Q1357
+Echinodermata Q44631
+Cuon Q19817116
+soft furnishing Q45063185
+hair dryer Q15004
+Discinaceae Q2105193
+Crustacea Q25364
+Percoidei Q1844555
+duct flute Q478634
+disposable product Q1194058
+product packaging Q207822
+hijacker Q4469127
+transport aircraft Q15126142
+software library Q188860
+metal artwork Q29382731
+abdominal distention Q2536390
+Myliobatiformes Q796580
+mathematical singularity Q863349
+pole Q525800
+air-to-air missile Q243249
+written work Q47461344
+Cucujiformia Q692384
+Aptenodytes Q652976
+sailing ship Q170483
+fruit Q1364
+inflatable Q2162595
+Brassica Q58677
+musical instrument Q34379
+Muridae Q25916
+LGBT Q17884
+covering Q31808206
+lebrillo Q19754913
+cruiser Q1141969
+Aleyrodidae Q815617
+visual artwork Q4502142
+group of artificial physical objects Q66661745
+input device Q864114
+motorsport Q5367
+subdivision of thorax Q66511775
+portable building Q2742119
+physical entity Q112276019
+football Q262090
+anti-surface missile Q104369331
+organization Q43229
+Plutella Q10350573
+Général Q582170
+broadcasting Q15078788
+syrup Q6584340
+outdoor recreation product Q117208748
+eating or drinking establishment Q88985865
+audio equipment Q15190726
+firearm component Q107184001
+Theridiidae Q12019
+Pantherinae Q230177
+residential building Q11755880
+Gentianales Q21754
+human-made geographic feature Q811430
+corrective lens Q2143661
+nonverbal communication Q207125
+metal Q11426
+man Q8441
+toy Q11422
+coffeemaker Q211841
+keyboard Q1921606
+battercake Q116146103
+primary bacterial infectious disease Q18553247
+statute Q820655
+Tectipleura Q56787146
+design element Q55412936
+Arecales Q1096533
+separate bowl drums Q55723166
+organonitrogen compound Q55739694
+Cardinalidae Q223402
+control surface Q30090641
+sound generator Q267228
+neckpiece Q29473501
+Agaricales Q221448
+transgression Q3537603
+simple fruit Q28791169
+sailplane Q180173
+sources of law Q846882
+Proboscidea Q26308
+Talpinae Q678627
+heritage site Q358
+Diaperoeciidae Q4171362
+Antilopinae Q462736
+tessellation Q214856
+Procellariiformes Q21685
+component Q1310239
+space Q2133296
+shaken idiophone Q2132068
+Equus Q27022
+paper Q11472
+plant-derived motif Q1429318
+Neoptera Q23005
+cabinet Q2741056
+measurement Q12453
+Diodontidae Q329334
+scientific method Q46857
+naval rating Q337902
+transport helicopter Q2496423
+dermatitis Q229256
+Caniformia Q27414
+subdivision of trunk Q66516387
+Euarchontoglires Q471797
+Cyprinidae Q35047
+stationary state Q911951
+Indri Q19816385
+organo-main group compound Q4531153
+footwear shop Q112274793
+book Q571
+engineering Q11023
+Araneidae Q5883
+information artifact Q109648042
+cloth Q5849500
+Cameraria Q2433471
+Eupnoi Q1953008
+energy transfer Q15211908
+Haemanthus Q886510
+Alouattinae Q19816410
+metrological mechanism Q4198689
+change Q1150070
+fictional mode of transport Q6619802
+measurement tool Q1047213
+kitchen tools & utensil Q116971342
+natural material Q3405827
+Chlamydosaurus Q14425550
+Caretta Q2938164
+electronic toy Q15654425
+ceiling Q221706
+iron Q483634
+ball boy Q805296
+vehicle model Q29048322
+human Q5
+Feliformia Q27070
+sound recording device Q758891
+Anatinae Q27725
+religious organization Q1530022
+food establishment Q27038993
+plant and machine operators and assembler Q108286426
+solar panel Q774583
+pottery of ancient Greece Q738680
+stalk Q104033909
+door Q36794
+goods Q28877
+movie theater Q41253
+mythical entity Q24334685
+Diprotodontia Q26332
+tiling puzzle Q7802162
+Alcelaphinae Q615263
+sport competition at a multi-sport event Q51031626
+Angiospermae Q14832431
+Caudovirales Q6521
+subset Q177646
+skin care product Q117207471
+geometric shape Q815741
+Strigidae Q26012
+membrane-bounded organelle Q21423046
+season Q10688145
+dessert Q182940
+Asian elephant Q133006
+armored car Q649062
+Nudibranchia Q733595
+Cyprininae Q150617
+golf product Q117208965
+elementary occupations Q108288353
+Salmonidae Q184238
+natural system Q106865236
+Southeast Asians Q99929155
+disease of cellular proliferation Q18554796
+indigenous languages of the Americas Q51739
+commercial vehicle Q580939
+grocery store Q1295201
+Takifugu Q387587
+product model Q10929058
+robber Q10659189
+tracked vehicle Q11821162
+sports equipment Q768186
+Sauria Q2254408
+Metapterygota Q1925093
+craft and related trades workers Q108285940
+protestant church building Q56242063
+European folk music Q98528192
+medium-range ballistic missile Q369330
+agricultural tool Q3629395
+handwear Q28932195
+mass caterer Q27077054
+gate Q53060
+Catarrhini Q206930
+escutcheon Q331357
+enlisted person Q4319062
+Struthioniformes Q840849
+Archidorididae Q3621527
+release Q115668308
+bound state Q908049
+small arms Q1058629
+cooking pot Q2366864
+light fixture Q815738
+business Q4830453
+nevus Q692077
+container Q987767
+person or organization Q106559804
+disease Q12136
+lutheran church Q56242275
+Serpentes Q25537662
+Aramidae Q13108171
+crime Q83267
+forestry worker Q12335817
+lock Q228039
+garden Q1107656
+sports organization Q4438121
+stock pot Q15711817
+fluid accelerator Q65115262
+beer glass Q516844
+Helicina Q56677152
+Rosa Q34687
+religious building Q24398318
+tank destroyer Q161161
+Cucumis Q148758
+Plumbago Q2039140
+bus-based transport system Q30014735
+Canis Q149892
+motor vehicle Q752870
+rider Q11998775
+pasta dish Q18679685
+Lygaeoidea Q957247
+Astacidea Q929163
+responsible drug use Q3454696
+audio recording Q3302947
+Helodermatidae Q13417716
+Lamiinae Q2454879
+physical interface Q64830866
+Scarabaeiformia Q7430238
+residence Q699405
+Turbinellinae Q7853770
+cultural depiction Q20742825
+gathering of information Q29693713
+panel Q106656496
+Mi-8/17 Q17372496
+peasant Q838811
+mobile phone Q17517
+room Q180516
+facility Q13226383
+cotton fabric Q8231603
+open side-blown flutes with fingerholes Q55738599
+Dugongidae Q838603
+Haemorhous Q4745530
+letter Q133492
+group of living things Q16334298
+hip hop music Q11401
+Carcharhinus Q312359
+Meropidae Q183147
+Ruminantia Q192164
+Pleocyemata Q147873
+Allioideae Q49392
+crafting Q53178539
+exterior space Q21950738
+spacer Q52161601
+Decapoda Q4610
+visual arts Q36649
+Liliopsida Q1147601
+Salamandra Q62181
+yellow Q943
+agricultural machinery Q16000047
+mobile network Q15360302
+finger organs Q16581540
+Holostei Q846164
+slider-crank mechanism Q49720
+valve horn Q55738940
+macromolecular conformation Q97669203
+topological space Q179899
+Apoikozoa Q24966129
+bell pepper Q1548030
+Pierinae Q997495
+Rosaceae Q46299
+Percomorpha Q258278
+Anatidae Q7556
+retail chain Q507619
+Zea Q542456
+Argiope Q862644
+Lilianae Q6547763
+pole Q2180428
+loudspeaker box Q390573
+Galliformes Q21659
+skin appendages Q1239288
+Platyzoa Q46851
+game piece Q3449901
+active galactic nucleus Q46587
+function Q11348
+nightwear Q1187616
+Panzer 38(t) Q152915
+user interface Q47146
+comics Q1004
+subdivision of pelvic girdle Q66516319
+coach Q41583
+Poaceae Q43238
+hydraulic structure Q2466889
+établissement public Q15343039
+Alethinophidia Q940396
+Haematopus Q27515
+Cetartiodactyla Q27850
+digital media player Q1567371
+plumbing fixture Q2024731
+textile component Q28935994
+rock fragment Q100384264
+puzzle video game Q54767
+architectural element Q391414
+mobility aid Q6887300
+Cuculidae Q26381
+sound reinforcement system Q829504
+location of an event Q18635222
+Eusuchia Q938944
+road junction Q1788454
+Commelinidae Q1115272
+Coraciimorphae Q19596468
+physical object Q223557
+weight Q65088317
+custom Q251777
+transport Q7590
+mug Q386215
+semi-finished casting product Q867705
+Atelinae Q1199185
+Aequornithes Q43657
+popular music Q373342
+Hominidae Q635162
+particular anatomical entity Q112826975
+half-track armored personnel carrier Q100999116
+umbrella Q41607
+Tetrapodomorpha Q1209254
+Araucariaceae Q217697
+matter Q35758
+organizational subdivision Q9261468
+mallet percussion instrument Q3891158
+filter Q16908411
+gesture Q658018
+Dugong Q10978076
+levee Q105190
+angiosperms Q25314
+Aurantioideae Q663700
+physico-geographical object Q20719696
+Platyrrhini Q237157
+hair styling tool accessory Q116971174
+Bitis Q574527
+fictional vessel Q18670171
+tank Q12876
+Coraciidae Q44245
+orrery Q1759299
+Psittacopasserae Q5856078
+Ceratopsia Q131381
+Auchenorrhyncha Q202890
+Lama Q753853
+computer Q68
+Strepsirrhini Q82265
+substellar object Q3132741
+outerwear Q4388799
+message Q628523
+content Q1260632
+Dinosauriformes Q2740164
+chemical entity Q43460564
+Bromeliaceae Q156529
+Osphronemidae Q726399
+anatomical cavity Q28654015
+Dasyuridae Q23133
+Boinae Q887595
+Cingulata Q1242326
+fence Q148571
+projectile Q49393
+biological component Q28845870
+diver Q1866686
+Dictyoptera Q2087279
+light tank Q875583
+occupation Q12737077
+Passeroidea Q749521
+transport route Q1067164
+indoor game product Q117208702
+nonbuilding structure Q1322402
+Lycosidae Q10627
+religious clothing Q2490224
+Botaurinae Q855133
+Cypselomorphae Q5198624
+culture Q11042
+Anabantiformes Q1744606
+religious servant Q4504549
+Fabaceae Q44448
+parish church Q317557
+Brachyura Q40802
+Ochrophyte Q1048772
+slide trumpets Q55738923
+white adipose tissue Q654528
+seta Q126780
+beacon Q7321258
+Pecora Q772442
+lutes Q1808578
+Arthropoda Q1360
+networking hardware Q1546066
+Neoselachii Q150760
+basket Q201097
+Sternorrhyncha Q621840
+Brassica oleracea Q146212
+magnifying glass Q166849
+bathroom accessory Q117207561
+Charadriiformes Q25978
+cranial appendage Q104029954
+land-based aircraft Q2125613
+alloy Q37756
+piano Q5994
+odd-toed ungulate Q25374
+bridge Q12280
+Boa Q492841
+Punica Q4959355
+Australaves Q14635103
+Chasmosaurinae Q137441
+audio players & recorder Q116961770
+Trilobitomorpha Q1210232
+cup Q81727
+estimation Q791801
+British folk music Q109916244
+core eudicots Q869087
+Indriidae Q175626
+Anguilliformes Q128685
+flour-based food Q16266745
+Scarabaeinae Q2412715
+thoroughfare Q83620
+Polygonales Q923240
+electro-acoustic instruments Q50821977
+entheogen Q310491
+ice cream Q13233
+measuring instrument Q2041172
+subdivision of body proper Q66596064
+heraldic bird Q18408740
+Araneoidea Q774956
+Colubrinae Q1303330
+woodworking tool Q11789812
+Asteranae Q12248059
+Cyprinoidea Q3699918
+electrical network Q132629
+archaeological site Q839954
+plaintext Q1162538
+Macro-Jê Q887133
+competition Q476300
+plant structure Q20011319
+Phallus Q2064470
+Muraeninae Q1179908
+Tripsacinae Q19921602
+Murinae Q30266
+Otariidae Q26700
+Rena Q2631804
+mobile app Q620615
+behavior Q9332
+Newtonia Q747421
+symbol Q80071
+unit of length Q1978718
+travel Q61509
+electrical enclosure Q442709
+Perdicinae Q9304816
+Squamata Q122422
+Saimiri Q309200
+ball game Q877517
+commode Q622360
+seashell Q213096
+reconnaissance aircraft Q3041792
+linkage Q1153014
+Chromista Q862296
+Pentatomomorpha Q262297
+educator Q974144
+Austronesian Q49228
+jug Q2413314
+track and field Q3312129
+Arachnida Q1358
+Eureptilia Q3060510
+Reptiliomorpha Q134683
+Ixodida Q10304508
+Corvida Q869223
+Puma Q270748
+protein kinase Q58321
+Ischnochitonina Q1847096
+primary metabolite Q3333419
+ocean liner Q697196
+pointing device Q184824
+penguin Q9147
+swimmer Q10843402
+multihull Q1642862
+lighthouse Q39715
+Nematoida Q867425
+Nautiloid Q840536
+Cebus Q8447051
+cognition Q2200417
+blanket Q5852
+flat-bottomed boat Q5457690
+Dicondylia Q1210274
+ship Q11446
+soft drugs Q1902558
+physico-chemical property Q38885242
+Globidonta Q5571040
+Hausdorff space Q326908
+Archosauriformes Q282487
+Cancer Q428243
+Earth observation satellite Q854845
+quantum state Q230883
+congenital disorder of glycosylation with deafness as a major feature Q55787919
+health problem Q2057971
+medical procedure Q796194
+Banksia Q131258
+optical instrument Q1751850
+recorder Q1312336
+Faboideae Q316856
+sculpture Q860861
+Heloderma Q729412
+class Q5127848
+Diptera Q25312
+interior space Q1299240
+filter Q736556
+molecular entity Q2393187
+Bucerotiformes Q20740
+quantum particle Q28693603
+Bryozoa Q148134
+fictional organism Q30017383
+Android Q94
+Calcaronea Q1985953
+ranged weapon Q153556
+Asterales Q21730
+Ursus Q243359
+language Q34770
+durable good Q2184715
+Atlantic–Congo Q771124
+sewing tool Q21550976
+Ipomoeeae Q635997
+horse-drawn vehicle Q1112950
+Boidae Q45556
+handheld game console Q941818
+Coturnix Q1869243
+subdivision of head Q66515796
+Mephitidae Q83244
+Gadiformes Q216241
+monster Q107765406
+two-wheeler Q233040
+Amaryllidaceae Q155848
+Pieridae Q41559
+Mimetes Q2881204
+format Q2085518
+Austro-Tai Q783816
+Crocodyliformes Q3003172
+occurrence Q1190554
+floor Q217164
+textile Q28823
+Boletaceae Q899266
+biopolymer Q422649
+spread Q1472481
+Carduoideae Q134508
+baby transport accessory Q116961374
+physical quantity Q107715
+self-service machine Q2267569
+side arm Q46944
+King crab Q1861297
+aviation vessel Q106070281
+nonbiological component Q66310125
+Asparagales Q26229
+battalion Q6382533
+Tinca Q15963609
+Balaenopteroidea Q12062582
+Christmas tradition Q717040
+Alopias Q627902
+flag officer Q977459
+Dasyurini Q533062
+property Q1400881
+biological system Q30336093
+Accipitrimorphae Q19595747
+hand tool Q2578402
+Austrodyptornithes Q19595985
+Sclerosomatidae Q3179711
+infrastructure Q121359
+languoid Q17376908
+string Q184754
+end-blown flute Q1879241
+snack Q749316
+solid figure Q937946
+integer Q12503
+bone cancer Q18554919
+Christian organization Q94670589
+overshoe Q29436116
+Gempylidae Q1136229
+environment Q2920644
+Muroidea Q58949
+Corvidae Q25565
+source Q31464082
+Chrysocyon Q10747776
+Glires Q660432
+Scorpaenidae Q386535
+shop Q213441
+production Q739302
+Python Q271218
+charge Q1424805
+dinosaur Q430
+Picocoraciae Q19598622
+Elapidae Q186554
+historic site Q1081138
+scale component Q111350353
+single open side-blown flutes Q55738597
+Rosoideae Q134655
+series of creative works Q7725310
+whist Q767979
+naval officer Q10669499
+high voice Q98116969
+friary Q20672229
+trousse Q16869178
+Anguidae Q191059
+anomaly Q567555
+wine glass Q1531435
+negotiable instrument Q28038717
+Pinopsida Q1329304
+Cucurbiteae Q5192459
+graphical widget Q605117
+head Q23640
+pattern of behavior Q2515887
+Homininae Q242047
+Stenolaemata Q141569
+unit distance graph Q745378
+Accipitriformes Q21736
+time interval Q186081
+bonnet Q1149531
+Natrix Q955683
+quality assurance Q836575
+Niger–Congo Q33838
+Iguana Q205531
+retail environment Q39659371
+bedcover Q55570182
+scientific instrument Q3099911
+continuous-pitch instrument Q98329515
+clothing store Q2090555
+Moraceae Q156579
+plane Q17285
+natural process Q13878858
+hairstyle accessory Q21369154
+paperboard Q14934005
+Bilateria Q5173
+juridical person Q155076
+enzyme Q8047
+driver training vehicle Q104390875
+Lemuridae Q186462
+Fragilariales Q18676689
+place of discovery Q1291195
+Betta Q4164940
+single oboes with conical bore Q55738860
+electronic device model Q62008942
+electronic machine Q2858615
+musculoskeletal system cancer Q18553659
+pie Q13360264
+sheath Q29487717
+Anomura Q526867
+Hypocreales Q132255
+single reedpipes with double (or quadruple) reeds Q55738828
+vehicle storage cover Q117209203
+fictional object Q15706911
+commercial building Q655686
+business administration Q2043282
+central processing unit Q5300
+Otidimorphae Q19598306
+Archelosauria Q19595522
+Herpestidae Q80479
+leg Q1992685
+Artocarpus Q161085
+stage curtain Q945148
+Magnoliopsida Q1307404
+Booidea Q2633891
+organic anion Q43457632
+Isolona Q1939991
+sports helmet Q1675611
+Pterygota Q22708
+record Q107435521
+Euthyneura Q5361179
+bread Q7802
+Passerina Q609717
+light source Q1146001
+public transport Q178512
+billiard table Q3500725
+helmet Q173603
+geographic region Q82794
+Ciconiiformes Q21716
+taxon Q16521
+medium-length hair Q111143758
+farmer Q131512
+eudicots Q165468
+Membracoidea Q1934003
+furnishing Q31807746
+Galloanserae Q853058
+Orchidaceae Q25308
+Eufalconimorphae Q326483
+Alligatoroidea Q507496
+hangar Q192375
+Pterophoridae Q906219
+skin disease Q949302
+specialized database Q1391125
+plumbing Q182612
+Coraciiformes Q484131
+family car Q1940287
+Orcininae Q1757612
+Globicephalinae Q3109015
+grave Q173387
+uniform Q7434
+position of authority Q15296531
+telescope Q4213
+linguistic unit Q11953984
+coat Q152574
+Carcharhiniformes Q48178
+Phalangiidae Q136948
+Cetaceamorpha Q24031895
+combat arm Q4793045
+motion Q79782
+tower Q12518
+Cicadomorpha Q634988
+Nymphalinae Q32549
+Cerastes Q73178
+manège (attraction) Q15124452
+Batoidea Q6495741
+Carduelinae Q667490
+aircraft Q11436
+assembly unit Q4409879
+reflexive relation Q621850
+Fragilariophyceae Q14539179
+treatment Q179661
+Proteaceae Q157228
+waveform Q1165717
+Ocypodoidea Q1357526
+Latrodectus Q385932
+interaction Q52948
+model building Q917912
+Rutilus Q180447
+dress Q200539
+footwear Q161928
+Teleostei Q204861
+Psittacidae Q8327
+non-lethal weapon Q911881
+Passeriformes Q25341
+nut Q11009
+anatomical projection Q102277188
+haircutting Q10532119
+Discina Q5281455
+inflatable ball Q97722170
+squirrel Q9482
+off-road vehicle Q946596
+Lamiaceae Q53476
+agent Q24229398
+organelle Q45948
+economy car Q2940332
+class Q16889133
+silk fabric Q12019351
+legal tender Q1643989
+widget Q2467478
+natural trumpet Q1662735
+road Q34442
+dome Q12493
+class Q217594
+Vombatiformes Q1067017
+produce Q1913301
+indehiscent fruit Q160034
+Elephantida Q20686726
+mythic humanoid Q6949149
+Castoridae Q261363
+mushroom Q83093
+disease of anatomical entity Q18557436
+Eumetabola Q5861654
+executive Q978044
+cipher Q4681865
+body piercing jewellery Q474828
+handicraft and printing workers Q108285922
+transverse flute Q16875637
+racing video game Q860750
+Tetraodontinae Q18622934
+sovereign Q2304859
+flat cap Q15603247
+church building Q16970
+Apoidea Q324132
+Cebidae Q425707
+Greek vases Q19899872
+Mus Q2360683
+Alopex Q223410
+Agaricomycetes Q27720
+Iguania Q661136
+Scarabaeidae Q186946
+female human Q84048852
+newspaper Q11032
+hunting Q36963
+publication Q732577
+Trachurus Q982933
+Ambystoma Q2513619
+Hominini Q107588
+Psychodomorpha Q2735029
+office supply Q2383811
+Minchinellidae Q10330244
+substance Q378078
+Neoaves Q2330918
+undirected graph Q3115587
+Ditrysia Q843246
+airplane with 2 engines Q18500527
+Southern Bantoid Q3183152
+flying machine Q7194062
+Panina Q3305022
+Elephantimorpha Q23926871
+anatomical structure Q4936952
+group of physical objects Q61961344
+Bovinae Q4979192
+electromagnetic wave Q11386
+source code Q128751
+sandwich Q28803
+Rosidae Q3442619
+Oncorhynchus Q133325
+work Q386724
+pot Q60310748
+non-physical entity Q7048977
+instrumentalist Q1278335
+eukaryote Q19088
+Mollusca Q25326
+natural geographic object Q35145263
+organic compound Q174211
+Bantu Q33146
+liturgical costume Q19978874
+deuterostome Q150866
+terrain Q14524493
+immaterial anatomical entity Q28654028
+drug Q8386
+neckwear Q6985603
+collectible Q2342494
+costume Q9053464
+manufactory Q380342
+tableware Q851782
+asset Q46737
+programming tool Q1077784
+Araneomorphae Q12084
+system Q58778
+winter squash Q8026408
+systems engineer Q1572123
+Alligator Q530397
+elemental Q1786347
+multigraph Q2642629
+two-piece swimsuit Q95918226
+information resource Q37866906
+Araucaria Q157214
+material-handling equipment Q15984860
+video game console Q8076
+voice Q17172850
+drive Q64817736
+brick and mortar Q726870
+Lagomorpha Q25401
+Myriapoda Q25823
+Mamba Q194425
+preorder Q1425985
+volume Q105763458
+Polyphaga Q147877
+music Q115484611
+integumentary system benign neoplasm Q18553678
+Loricata Q13362187
+prisoner Q1862087
+Volta–Congo Q37228
+rapeseed Q177932
+grapheme Q2545446
+Dermochelyidae Q2738058
+Melinae Q10328397
+grilling Q264619
+coaching & officiating Q117208497
+administrative territorial entity Q56061
+board game Q131436
+Apogonidae Q728422
+struck idiophone Q5280486
+Fringillidae Q160835
+Hamamelididae Q1768451
+communication Q11024
+towel Q131696
+Oryctes Q1952376
+Blattodea Q25309
+sexual minority Q589656
+Neobatrachia Q134759
+vehicle parts & accessory Q117209156
+Suini Q15618436
+bench Q204776
+Euselachii Q48918
+cristiano aranzabal Q184018
+regiment Q52371
+leader of organization Q25713832
+turtle Q223044
+Carabidae Q27046
+trap Q7835525
+code Q188889
+bicycle part Q30246160
+hamburger Q6663
+Cocoseae Q147190
+person Q215627
+Ficus Q59798
+bars apparatus Q3391431
+natural geographic entity Q27096220
+adult Q80994
+object Q488383
+yarn Q49007
+furniture Q14745
+coffee drink Q37756327
+Mil Mi-8 Q155635
+Plumbaginaceae Q156141
+passenger ship Q2055880
+Hippopotamidae Q213336
+Cypriniformes Q177879
+telephone Q11035
+body armor Q485027
+Opisthothelae Q12072
+document Q49848
+Fragilariaceae Q9262021
+agriculture, forestry and fishing Q29584207
+biological structure Q55568967
+connective tissue neoplasm Q3542012
+gibbon Q185939
+Caudata Q53663
+legal act Q740464
+anti-tank missile Q282472
+harm reduction Q1458711
+Pezizales Q660555
+galaxy Q318
+housing Q11326220
+Great Blue Heron Q333796
+vehicle cover Q117209197
+Lithonida Q2160746
+respiratory failure Q767485
+major appliance Q12269769
+Tobamovirus Q3530126
+quantum Q46344
+cabinets & storage product Q116970618
+timepiece component Q45849001
+recreational equipment Q21550927
+Alphaendornavirus Q29002214
+pocket knife Q390383
+Kimbundu Q16947687
+contraceptive Q25473183
+Nymphalini Q32476
+social dance Q3209069
+naval vessel Q177597
+herbaceous plant Q190903
+cavalry Q47315
+metabolite Q407595
+locus Q211548
+reflector Q1823435
+Archichlamydeae Q11659496
+vessel Q96952903
+access control Q228502
+Hystricognatha Q15055130
+extrasensory perception Q790024
+protostome Q5171
+support Q33123524
+fast attack craft Q719226
+functional mask Q57445378
+greenhouse Q165044
+sloth Q2274076
+transferase Q407355
+lid Q2488579
+Cophylinae Q2019009
+Urticales Q670109
+skin benign neoplasm Q18555315
+natural figure Q3744880
+Monocotyledoneae Q14847257
+Scleroglossa Q2944038
+dish Q746549
+ion Q36496
+marketplace Q330284
+watercraft type Q16335899
+animal equipment Q61755099
+protein tyrosine kinase Q87099740
+Rhyparochromidae Q3429865
+Ctenidae Q8708
+Haematopodidae Q12845592
+Marginocephalia Q131385
+Cetancodontamorpha Q727029
+cavalry regiment Q12107531
+finding Q37112258
+Nilotic Q513408
+sliding door Q2234382
+heraldic animal Q350945
+book component Q63285117
+Banisteriopsis Q2714333
+Rallidae Q26623
+bomber Q170877
+ramp Q661343
+brassiere Q13716
+catalyst Q12385831
+self-propelled gun Q272574
+Erithacus Q855800
+science Q336
+Orthogastropoda Q132766
+group or class of physical objects Q98119401
+Sordariomycetes Q133607
+beaver Q47542
+panel Q106857709
+mechanical device Q1882685
+Leporidae Q25900
+Nautilida Q1188550
+Euarchonta Q728566
+Bonasa Q10740725
+ice rink Q1282870
+muscle of trunk Q66554885
+arcade racing game Q95124454
+Heteroptera Q27191
+Atagema Q1189929
+developmental anomaly of metabolic origin Q55785399
+domestic worker Q54128
+application Q166142
+Mergus Q253789
+toy animal Q22937791
+Stylommatophora Q972302
+legal person Q3778211
+transport service Q2806437
+home & garden product Q117207560
+Cinclus Q192575
+Calidris Q30838
+Unicode range Q109613493
+Percidae Q746136
+kitchenware Q1521410
+bus company Q10438042
+particle Q1621273
+sets of free reeds Q19650003
+Centropodinae Q15260066
+Dikarya Q755714
+human language Q20162172
+fragment Q11086567
+sun hat Q7638701
+process engineering device Q620681
+territory Q4835091
+video game Q7889
+user Q613354
+deltoid Q78329344
+respirator Q271779
+chip Q30703616
+differentiable manifold Q3552958
+Gyromitra Q580989
+Cuculiformes Q183364
+astronomical object Q6999
+military uniform Q1196123
+gar Q506144
+simulation video game Q1610017
+construction machine Q102310586
+sports competition Q13406554
+Hylobates Q878467
+fonds Q3052382
+Panicoideae Q1071663
+Elephantoidea Q5359418
+Cypripedioideae Q132226
+institution Q178706
+Caviinae Q914293
+Ailurus Q19817309
+tape recorder Q213777
+rocket Q41291
+consumption tax Q4351853
+archives Q56648173
+naval weapon Q20077997
+tripod Q1444534
+biota Q2382443
+state Q3505845
+Canidae Q25324
+artistic gymnastics event Q79120925
+swim aid Q2257650
+Uca Q1329937
+Fulica Q637533
+Cetacea Q160
+teaware Q835420
+strawberries Q745
+Helicidae Q1418257
+land-based airliner Q68390632
+camping & hiking product Q117208843
+haircutting establishment Q3062512
+sled Q181388
+junction Q1777515
+Bidon (container) Q52161530
+scale Q193642
+Struthionidae Q1569770
+Hemiptera Q26371
+Satyrinae Q612468
+quality Q1207505
+boot Q190868
+Entelegynae Q138259
+Embryophyta siphonogama Q14899727
+Guinea pig Q286088
+sporting event Q16510064
+Turdidae Q26050
+Perciformes Q127595
+coalition government Q837416
+insect Q1390
+Delphinidae Q215760
+Polyporaceae Q658831
+tillage machine Q15306431
+Sus scrofa Q58697
+religious site Q105889895
+Danainae Q427688
+Scarabaeus Q771526
+track sport Q110373504
+Talpidae Q104825
+Ostariophysi Q149081
+tradition Q82821
+Epictinae Q3055741
+parasitic helminthiasis infectious disease Q578994
+shirt Q76768
+female organism Q43445
+accelerated motion Q21036057
+one-dimensional space Q208920
+size Q322481
+certain aspects of a person's life Q20127274
+main course Q772630
+Andropogoneae Q3780208
+Dipnotetrapodomorpha Q23809240
+bowl Q153988
+Irish folk music Q7482056
+Gorilla Q36611
+attack aircraft Q208187
+struck string instrument Q3152898
+path Q5004679
+reusable launch vehicle Q30128
+odometer Q745105
+struck membranophone Q19588483
+hard disk drive failure Q1408770
+Mesoeucrocodylia Q2740674
+pollutant Q19829510
+former monastery Q96371565
+Artiopoda Q19842587
+Rumex Q157264
+human behavior Q3769299
+Homarus Q11827352
+Accipitridae Q25510
+fur Q197204
+Helotiales Q134490
+Daphnales Q14858032
+Viridiplantae Q11973077
+Passerellidae Q1425706
+Bemisia Q2767258
+bronchospasm Q279330
+food Q2095
+Pinophyta Q132825
+communication device Q1780509
+condition Q813912
+congenital disorder of glycosylation with developmental anomaly Q55787920
+public art Q557141
+Cynareae Q136869
+timepiece Q42622779
+Neotaenioglossa Q2269593
+cultural property Q2065736
+banjo Q258896
+open flutes with internal duct without fingerholes Q55738663
+railroad car Q208502
+crater Q3240715
+measure Q39875001
+primate Q7380
+multicellular structure Q27062218
+stone tool Q479257
+blue-collar worker Q1191714
+caffè Q17075804
+Botaurus Q739050
+Cartonematoideae Q16735830
+confection Q5159627
+Satyrini Q2717036
+Cebinae Q326260
+consumables Q1681365
+teacher Q37226
+scale Q1413749
+sock Q43663
+Porphyrio Q1137291
+merchant vessel Q848944
+dicarboxylic acid dianion Q71653729
+microorganism Q39833
+intrauterine device Q899868
+Formicoidea Q4038925
+Galeocerdo Q2186811
+painters and related workers Q108305399
+railing Q3095365
+traffic control device Q17480810
+balloon Q9706
+Pelicans Q11846678
+shoe Q22676
+self-propelled anti-aircraft gun Q102068052
+glider Q2165278
+Lagopus Q162029
+frame lamellophones Q55722155
+Benue–Congo Q33253
+Rodentia Q10850
+home appliance Q212920
+fictional entity Q14897293
+Agamidae Q191102
+aircraft type Q45296117
+keyboard instrument Q52954
+Nuclear Malayo-Polynesian Q1190607
+economic activity Q8187769
+Alopiidae Q17280257
+Parazoa Q205716
+Nymphalidae Q156449
+linens Q796635
+aerophone Q659216
+group of structures or buildings Q18247357
+orthodiagonal quadrilateral Q3531598
+Rubiaceae Q156569
+Leiopelmatidae Q55477
+Dermochelys Q11693960
+Stenopterygii Q616727
+Cartonemateae Q16735828
+printed circuit board assembly Q3951866
+Carabini Q10861058
+building and related trades workers (excluding electricians) Q108289046
+Hominoidea Q102470
+saw Q125356
+oscillation Q170475
+periodical Q1002697
+Adephaga Q131060
+connective tissue Q25615
+Strigiformes Q25222
+armored personnel carrier Q4407246
+Carduelis Q27757
+meat pie Q5367573
+collar Q497903
+Anseriformes Q21651
+kitchen knife Q599312
+employee Q703534
+bat-and-ball game Q2238071
+Anthozoa Q28524
+physical process Q17320256
+Lacertoidea Q13518423
+flute without duct Q55738528
+Phallales Q303573
+integumentary system disease Q18554850
+medium tank Q1069116
+Hexapoda Q105146
+Ferae Q20868
+Symphalangus Q1962797
+musician Q639669
+disaster remains Q21073029
+carrier-capable aircraft Q1261534
+jewelry Q2142903
+launch vehicle Q697175
+seed plants Q25814
+Amphibia Q10908
+curtain Q49005
+method Q1799072
+consumer electronics Q581105
+quasar Q83373
+electronic media Q1209283
+Vulpes Q185194
+Dasyuromorphia Q213333
+Thyrsites Q17166003
+polyhedron Q172937
+industry Q268592
+Suina Q335308
+audiovisual work Q2431196
+chromatic labrosones Q55738916
+spatial network Q7574076
+chemical substance Q79529
+sports team Q12973014
+Procyonidae Q147114
+Acinonyx Q481907
+Eumalacostraca Q72629
+amine Q167198
+Tiliqua Q883145
+economic sector Q3958441
+set Q36161
+callus Q2197452
+bus Q5638
+Microhylidae Q56057
+clothing store chain Q76213285
+technical standard Q317623
+metaclass Q19478619
+exact science Q475023
+Iguanidae Q235589
+Dugonginae Q910870
+medical equipment Q6657015
+art material Q15303351
+Muraenidae Q35076
+Paralithodes Q3363478
+vegetable Q11004
+equipment Q10273457
+concrete object Q4406616
+public space Q294440
+oboe family instrument Q42889517
+skilled worker Q1391083
+Lycosa Q13320847
+Lyrurus Q728995
+Scincidae Q272206
+political coalition Q6138528
+operation Q28972820
+Cypripedium calceolus Q156124
+animal trap Q106963151
+Mammaliaformes Q2082668
+Nautilus Q1324463
+mixture Q169336
+Caulimoviridae Q264052
+Panzer IV Q12186
+data set Q1172284
+warp pile fabric Q47460105
+Pollicipidae Q18690105
+social system Q1639378
+charged particle Q587553
+military unit Q176799
+Neognathae Q19168
+regularity Q4184950
+Tetraodontiformes Q211837
+barrier structure Q332907
+Ornithorhynchidae Q21811
+food manufacturer Q1252971
+chess piece Q208440
+Gorillini Q5883633
+airplane Q197
+organ system benign neoplasm Q18553646
+Cupiennius Q130072
+Polyplacophora Q188906
+orienteer Q13581129
+Cetoniidae Q1403094
+fruit vegetable Q1470762
+recording medium Q193395
+Monochlamydeae Q2617204
+stool Q33163
+form factor Q24574728
+abstract object Q7184903
+independent continuant Q53617489
+optical component Q65037298
+Plutellidae Q787074
+muscle organ Q7365
+artificial entity Q16686448
+painters, building structure cleaners and related trades workers Q108289664
+Cricetinae Q6573
+magnitude Q2091629
+Embryophyte Q192154
+Aiphanes Q1807921
+Placentalia Q25833
+vehicles & part Q117209155
+topological manifold Q2721559
+software Q7397
+parasitic infectious diseases Q1601794
+Eulipotyphla Q16635184
+headgear Q14952
+growing of cereals (except rice), leguminous crops and oil seeds Q29584895
+professional wear Q29000407
+accompaniment Q504514
+constructible number Q1321926
+bottle Q80228
+Mustela Q28521
+primary structure Q37500013
+location of burial Q12131650
+resource Q1554231
+Pica Q271634
+Neodiapsida Q3497035
+Dasyurinae Q902243
+physical anatomical entity Q66394244
+Psittacus Q10809423
+specification Q2101564
+Anabantoidei Q698225
+Caraboidea Q1049185
+flaw Q1747121
+Poroderma Q2626049
+heat exchanger Q189124
+visual artist Q3391743
+aerosol spray Q659495
+agricultural structure Q10480682
+formal system Q649732
+tunic Q201714
+bijou Q3575260
+living system Q6506039
+hybrid video game console Q27496624
+Metasuchia Q3307307
+Ornithorhynchus Q3745848
+Trissexodontidae Q7844074
+sweater Q232191
+cephalopod Q128257
+rugby ball Q2881344
+Willaumez Q3399025
+Bovoidea Q27268375
+needle Q56145959
+cooking Q38695
+promissory note Q190122
+operations management Q1423657
+necked lute Q55724833
+Bassariscus Q791240
+long gun Q1046481
+Liliiflorae Q3266272
+Bathyotica Q4869200
+Eurocopter Dauphin Q17565949
+electronic intelligence Q278034
+novel Q8261
+lower respiratory tract disease Q18553224
+biographic information Q59157079
+pancake Q44541
+architectural structure Q811979
+fireplace accessory Q16325263
+instant camera Q313695
+artificial geographic entity Q27096235
+box Q188075
+anatomical space Q28654025
+forestry Q38112
+military branch Q781132
+clast Q2212246
+antimicrobial agent Q68541106
+Grifola frondosa Q1165686
+aerodyne Q154503
+Obtectomera Q2013164
+seed oil Q7445643
+aptitude Q1347367
+Garrulus Q311248
+game Q11410
+tubular labrosones Q55738902
+physicochemical process Q111752858
+Testudinata Q16114972
+pome Q41274
+athletics product Q117208433
+group of humans Q16334295
+ship-launched anti-aircraft missile Q4191404
+mammals Q7377
+Anatoidea Q16124376
+complex Q107434516
+hyperplane Q657586
+accessory fruit Q147545
+Ursidae Q11788
+Bantoid Q806992
+diagram Q959962
+lingerie Q855691
+half-track Q941081
+legislation Q49371
+Urocyon Q738191
+promontory Q1245089
+ballistic missile Q179348
+Romeriida Q1061761
+Heteroneura Q132355
+orienteering Q29358
+accessory Q362200
+Euungulata Q5414620
+Malaclemys Q14566115
+Coelolepida Q11963953
+sport Q349
+pile weave Q7193857
+type Q21146257
+protein-coding gene Q20747295
+shape Q207961
+subject Q830077
+Elephantiformes Q19561774
+mailbox Q13553598
+line Q1228250
+Opiliones Q19116
+swimsuit Q212989
+mountain range Q46831
+formal science Q816264
+copper alloy Q518350
+Cerambycidae Q205295
+infant product Q115921244
+Gadinae Q2370888
+adipose tissue Q193583
+polyatomic ion Q1064242
+job Q192581
+Capparales Q2035198
+Hapalomys Q728112
+agriculture and forestry Q1801887
+soup Q41415
+root vegetable Q20136
+fortification Q57821
+zero-emissions vehicle Q2120578
+marsupial Q25336
+gymnastic apparatus Q2827268
+service Q7406919
+grain Q2995529
+Dinosauromorpha Q616657
+recurring event Q15275719
+Caryophyllidae Q1765819
+offshore construction Q2016031
+Halvaria Q5643722
+Cacatuidae Q31448
+Hippocastanoideae Q163489
+Mandibulata Q1633496
+emblem Q112110
+Eubrachyura Q902167
+unit of measurement Q47574
+snorkel Q13389713
+cannabis Q2845
+air conditioning Q173725
+Nilo-Saharan Q33705
+economy Q159810
+Triakidae Q756279
+terrace Q828581
+Beloniformes Q329667
+layer Q23497981
+monastery Q44613
+individual seat Q44666669
+bandage Q376724
+caffeinated drink Q5017160
+respiratory disease Q3286546
+coating Q1570182
+hypercomplex number Q837414
+toilet & bidet accessory Q116970887
+mineral Q7946
+handle lute Q30038759
+pedestal Q12014132
+fruit Q3314483
+Foundational Model of Anatomy attribute entity Q66591980
+wave Q37172
+accident Q171558
+Colobinae Q732737
+applied science Q28797
+Vertebrata Q25241
+racing driver Q378622
+tree Q10884
+Batrachia Q13514368
+light Q9128
+plant Q756
+Lycosoidea Q54901
+Passerae Q7142618
+Piciformes Q25934
+Euscelinae Q21226435
+chicken dish Q27994917
+growing of non-perennial crops Q29584386
+trademark Q167270
+athletic shoe Q815554
+Lepisosteiformes Q13605369
+physical location Q17334923
+Meles Q1345042
+Clogmia Q19593800
+simple machine Q186713
+biological material Q28969293
+keratosis Q3667186
+major piece Q12221306
+comics character Q1114461
+Elephas Q310746
+wolf Q18498
+Rutaceae Q146030
+real property Q684740
+carbonate and nitrate class of minerals Q1073138
+Lamniformes Q224470
+arch Q12277
+Choripetalae Q1973167
+bell Q101401
+binary relation Q130901
+Neosuchia Q3042061
+Weak Hausdorff space Q7977932
+combination Q16658814
+Boletellus Q1845830
+Crocodylidae Q43169
+seat Q2207370
+Allieae Q5669305
+Aculeata Q1251421
+Scincomorpha Q1050423
+Anura Q53636
+IT system Q1662611
+Polygalales Q2199372
+Chordata Q10915
+subdivision of cardinal body part Q42349081
+Dipsadinae Q143402
+structure of worship Q1370598
+Cancridae Q538558
+barrel Q10289
+Moringa Q310468
+fermented alcoholic beverage Q11258817
+Ailuropoda Q535979
+necked box lutes played with a bow Q57050725
+Citrus Q81513
+plant organ Q24060707
+support Q1058733
+cardinal body part Q17781690
+auto mechanic Q706835
+Arctoidea Q3235669
+network Q1900326
+swimming equipment Q21078476
+polyatomic anion Q55511438
+Eschrichtiidae Q898360
+Lamiales Q21742
+rubber Q18113858
+Varanidae Q3082684
+fiber Q161
+Lamnidae Q136902
+subculture Q264965
+human activity Q61788060
+camera Q15328
+Cerapoda Q131393
+winter sport Q204686
+motorsports competitor Q30339659
+Varanus Q81228
+ship-launched missile Q104369855
+polygon Q37555
+hermit crab Q273291
+mythical creature Q2239243
+Malpighiaceae Q632563
+motor car Q1420
+self-propelled consist Q28777591
+input-output device Q2384798
+manufactured object Q22809652
+electric bus Q926499
+Suricata Q19817113
+Transport and logistics profession Q99576475
+gesture Q371174
+clothing sizes Q1075138
+opisthokont Q129021
+kringle Q2098139
+biological sequence Q3511065
+Carangidae Q501728
+subdivision of trunk proper Q66600683
+athlete Q2066131
+Genisteae Q2269894
+non-negative integer Q28920052
+asterids Q747502
+Metazoa Q151542
+quoll Q379740
+Membranophones Q212892
+auto racing Q5386
+sound recording medium Q101073848
+Castorimorpha Q849836
+Talpini Q756942
+subclass Q3965271
+dance Q11639
+velocipede Q595658
+directly struck idiophone Q19462049
+specialty shop Q1374250
+spatio-temporal entity Q58415929
+lip make-up Q116221766
+tandem trainer Q18536137
+digital media Q1076968
+Arenaria Q4865776
+technological component Q811909
+telecommunications company Q2401749
+economic entity Q12569864
+archosaur Q130910
+Dicotyledones Q8316
+Mustelidae Q25437
+Ranidae Q6408
