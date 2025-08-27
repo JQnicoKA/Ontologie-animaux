@@ -1,0 +1,1 @@
+!zip -r poissonRouge.zip /kaggle/input/imagenet-object-localization-challenge/ILSVRC/Data/CLS-LOC/train/n01443537
